@@ -1,0 +1,5 @@
+npm uninstall
+npm install express --save-dev
+npm outdated
+npm ls
+npm update
